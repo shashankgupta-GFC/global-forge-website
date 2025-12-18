@@ -3,7 +3,7 @@ export const brand = {
   tagline: "Engineering, AI, Cybersecurity & Quality — built to scale.",
   subtagline:
     "From product development to proactive security and end-to-end testing, we help teams ship faster with confidence.",
-  email: "hello@globalforgeconsulting.com",
+  email: "hr@globalforgeconsulting.com",
   phone: "+91-XXXXXXXXXX",
 };
 
