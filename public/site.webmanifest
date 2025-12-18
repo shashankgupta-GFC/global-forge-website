@@ -1,0 +1,9 @@
+{
+  "name": "Global Forge Consulting",
+  "short_name": "Global Forge",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2f6bff",
+  "icons": []
+}
